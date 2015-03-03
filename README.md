@@ -30,8 +30,8 @@
 ![Gameplay 3][screen5]
 
 
-[screen1]: https://github.com/rohitkrai03/moleit/screens/screen1.png
-[screen2]: https://github.com/rohitkrai03/moleit/screens/screen2.png
-[screen3]: https://github.com/rohitkrai03/moleit/screens/screen3.png
-[screen4]: https://github.com/rohitkrai03/moleit/screens/screen4.png
-[screen5]: https://github.com/rohitkrai03/moleit/screens/screen5.png
+[screen1]: https://github.com/rohitkrai03/moleit/blob/master/screens/screen1.jpg
+[screen2]: https://github.com/rohitkrai03/moleit/blob/master/screens/screen2.png
+[screen3]: https://github.com/rohitkrai03/moleit/blob/master/screens/screen3.png
+[screen4]: https://github.com/rohitkrai03/moleit/blob/master/screens/screen4.png
+[screen5]: https://github.com/rohitkrai03/moleit/blob/master/screens/screen5.png
